@@ -11,3 +11,4 @@ wget https://code.headmelted.com/installers/apt.sh
 chmod +x apt.sh
 sudo ./apt.sh
 sudo apt-get install code-oss
+sudo apt-get install simplescreenrecorder
