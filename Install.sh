@@ -12,3 +12,6 @@ chmod +x apt.sh
 sudo ./apt.sh
 sudo apt-get install code-oss
 sudo apt-get install simplescreenrecorder
+sudo apt-get install snapd
+sudo snap install snap-store
+sudo snap install sc-controller
