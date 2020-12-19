@@ -5,8 +5,6 @@
 ## wget https://github.com/TurquoiseTNT/Pi-Install-SuperApps/Install.sh
 ## ./Install.sh
 
-## Done!
-
 # What Gets Installed?
 ## Python
 ## Minecraft Pi Edition
@@ -15,3 +13,7 @@
 ## Cups & hplip (for HP printer users)
 ## Pi-Apps (App Store)
 ## Code-OSS (Visual Studio Code for Linux)
+## Simple Screen Recorder
+## Snapcraft`s Snap Store
+## SC-Controller (Controller Configuration Menu)
+## Play On Linux (Run Windows Apps on Linux!)
